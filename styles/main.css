@@ -1,0 +1,38 @@
+
+
+body{
+    background-size: cover;
+   background-image: url(/Users/Lindi/Documents/Dev/davidbraga.github.io/Auckland\ Sunset.jpg);
+   background-repeat: repeat;
+    background-color: burlywood;
+
+    } 
+
+.page-header { 
+    color: white;
+    font-size: 30px;
+    text-align: center;
+ 
+    margin: 0px;
+}
+
+.Auckland-image {
+    max-width: 100%;
+    height: auto; 
+   border-radius: 30px;  
+
+   
+}
+
+
+.Intro {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+#selfy {
+   width: 200px;
+    border-radius: 100px;
+}
+
