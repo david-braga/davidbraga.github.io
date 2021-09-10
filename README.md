@@ -1,3 +1,3 @@
-https://github.com/david-braga/davidbraga.github.io/edit/main/README.md
+https://david-braga.github.io/davidbraga.github.io/
 
 My first web page 
