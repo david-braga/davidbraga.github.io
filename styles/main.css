@@ -8,11 +8,14 @@ body{
 
     } 
 
+    li {
+        list-style-type: none;
+    }
+
 .page-header { 
     color: white;
     font-size: 30px;
     text-align: center;
- 
     margin: 0px;
 }
 
@@ -29,11 +32,6 @@ body{
     font-size: 20px;
 }
 
-#selfy {
-   width: 200px;
-    border-radius: 100px;
-}
-
 .blog-topic {
     color: white;
     font-size: 50px;
@@ -42,16 +40,24 @@ body{
 }
 
 .blog-content {
-
+    
     color: white;
     font-size: 20px;
     text-align: center;
+    justify-content: space-around;
     margin: 10px;
-    padding: 50px 50px;
+    
+    
 }
 
 .sub-topics {
+    color: white;
     font-size: 30px;
     text-align: center;
-    line-height: 50px;
+    
 }
+
+#selfy {
+    width: 200px;
+     border-radius: 100px;
+ } 
