@@ -5,6 +5,8 @@ body{
    background-image:url(../img/auckland-sunset.jpg);
    background-repeat: repeat;
     background-color: burlywood;
+    
+    
 
     } 
 
@@ -63,9 +65,10 @@ body{
     text-align: center;
     justify-content: space-around;
     margin: 10px;
-    
-    
+        
 }
+
+
 
 .sub-topics {
     color: white;
